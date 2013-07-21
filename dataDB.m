@@ -1,0 +1,1 @@
+data = fetch(conn, 'select id, raw_id ,  category ,  price ,  square_meter ,  rooms ,  city ,  region ,  address ,  post_date ,  internal_condition ,  floor ,  house_desc ,  contact_type ,  contacts ,  profile_url, insert_timestamp from raw_entity');
